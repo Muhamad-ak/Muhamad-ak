@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently studying
+I’m a final-year Computer Engineering student at Karabuk University, passionate about developing innovative software solutions. With a strong programming background and practical experience from internships and projects, I actively contribute to open-source communities and continuously explore emerging technologies. Outside of tech, I stay engaged with sports. I'm eager to advance my career in a dynamic software engineering environment.
 
 
 ## 🌐 Socials:
